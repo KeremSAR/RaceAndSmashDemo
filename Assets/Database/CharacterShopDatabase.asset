@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b70da70aa385c43a410850cb97bfbd, type: 3}
+  m_Name: CharacterShopDatabase
+  m_EditorClassIdentifier: 
+  characters:
+  - texture: {fileID: 8400000, guid: 7057484f703a8bb48aafd50cd195d5f2, type: 2}
+    name: John
+    speed: 10
+    health: 1
+    price: 159
+    isPurchased: 1
+  - texture: {fileID: 8400000, guid: 9b66ae5faa0f12043af060f054b916be, type: 2}
+    name: Blue
+    speed: 10
+    health: 2
+    price: 175
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: 4663f85a264ced941a05cfd4cf9d4145, type: 2}
+    name: Tyro
+    speed: 10
+    health: 3
+    price: 450
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: d98e837801324f54fa260818a0d5ee6e, type: 2}
+    name: Ripley
+    speed: 10
+    health: 4
+    price: 750
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: f3623e91016a943438c3cb1820b8a458, type: 2}
+    name: Harrower
+    speed: 10
+    health: 5
+    price: 1000
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: 0fb043ad639a9cd478f51b6b78a50612, type: 2}
+    name: Sam
+    speed: 10
+    health: 6
+    price: 1300
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: 00888b458bdccd941aa11f75afe945d1, type: 2}
+    name: Kesh
+    speed: 10
+    health: 7
+    price: 1600
+    isPurchased: 0
+  - texture: {fileID: 8400000, guid: e5c00574cc7e5544e9b18bc791413548, type: 2}
+    name: Mercury
+    speed: 10
+    health: 8
+    price: 2000
+    isPurchased: 0
